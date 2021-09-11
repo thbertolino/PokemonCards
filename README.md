@@ -20,3 +20,6 @@ Cards de Pokémon em CSS puro.
 [Link do código do Rodrigo](https://github.com/Rodrigo-Souza-DEV/Card-Yugioh-3D)
 <hr>
 
+<p>Post no LinkedIn: https://www.linkedin.com/posts/thbertolino_inspirado-no-post-do-rodrigo-souza-dev-cards-activity-6842565686733225984-MknA
+<hr>
+
